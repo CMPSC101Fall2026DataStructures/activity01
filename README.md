@@ -10,6 +10,8 @@ Activity 01: Getting Started with UV Package Manager
 
 Note: the expiration date is the last date you can submit your work for a grade.
 
+<img src=graphics/twinPrimes.png alt="TwinPrimes" style="display: block; margin: 0 auto;">
+
 ## Table of contents
 - [CS101: Data Structures](#cs101-data-structures)
   - [Assigned and Due](#assigned-and-due)
